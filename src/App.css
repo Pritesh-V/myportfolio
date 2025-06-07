@@ -1,4 +1,24 @@
-#root {
+@import "tailwindcss";
+
+
+@theme {
+  --color-mpw-black : #303841;
+  --color-mpw-gray : #3A4750;
+}
+
+
+
+
+
+body {
+  background-color: white;
+  
+}
+
+
+
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +59,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
